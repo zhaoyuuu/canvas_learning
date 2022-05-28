@@ -1,0 +1,14 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+.text {
+  position: absolute;
+  left: 130px;
+  top: 35px;
+  z-index: -1;
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: bold;
+}
+
